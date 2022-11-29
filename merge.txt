@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 linux
 shell
 good
 change3
 change4
+=======
+hello
+good
+linux
+change1
+change2
+>>>>>>> feature
