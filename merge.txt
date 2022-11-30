@@ -1,17 +1,5 @@
-linux
-<<<<<<< HEAD
 shell
 good
-change3
-change4
+change52
+change53
 
-
-
-
-
-
-
-=======
-change10
-change11
->>>>>>> feature
